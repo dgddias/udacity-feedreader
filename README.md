@@ -20,12 +20,11 @@ RSS Feeds
 * Feed Names não estão vazios.
 
 The Menu
-
 * The menu está oculto por padrão.
 * A visibilidade do menu é alterada quando é clicado.
 
 Initial Entries
-* Existe ao menos 1 Feed?
+* Existe ao menos 1 Feed.
 
 New Feed Selection:
 * Quando atualizado, um novo feed diferente é exibido.
