@@ -12,7 +12,7 @@ O teste é uma parte importante do processo de desenvolvimento e muitas organiza
 
 Para vizualizar o projeto feedreader, baixe ou clone os arquivos em seu PC e abra em seu navegador de preferência o arquivo index.html
 
-##Testes
+## Testes
 
 RSS Feeds
 * Feeds existem.
