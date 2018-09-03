@@ -12,19 +12,20 @@ O teste é uma parte importante do processo de desenvolvimento e muitas organiza
 
 Para vizualizar o projeto feedreader, baixe ou clone os arquivos em seu PC e abra em seu navegador de preferência o arquivo index.html
 
-###Testes
+##Testes
 
 RSS Feeds
-1. Feeds existem.
-2. Feeds URL não estão vazios.
-3. Feed Names não estão vazios.
+* Feeds existem.
+* Feeds URL não estão vazios.
+* Feed Names não estão vazios.
 
 The Menu
-4. The menu está oculto por padrão.
-5. A visibilidade do menu é alterada quando é clicado.
+
+* The menu está oculto por padrão.
+* A visibilidade do menu é alterada quando é clicado.
 
 Initial Entries
-6. Existe ao menos 1 Feed?
+* Existe ao menos 1 Feed?
 
 New Feed Selection:
-7. Quando atualizado, um novo feed diferente é exibido.
+* Quando atualizado, um novo feed diferente é exibido.
