@@ -112,7 +112,7 @@ $(function () {
 
             it('feed has 1 entry', function () {
 
-                var entry = ('.entry').length;
+                var entry = ('.feed .entry').length;
                 expect(entry).toBeGreaterThan(0)
 
             });
